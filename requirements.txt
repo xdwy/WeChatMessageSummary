@@ -1,0 +1,11 @@
+tiktoken~=0.7.0
+pandas~=2.2.2
+jieba~=0.42.1
+langchain~=0.1.9
+python-dotenv~=1.0.1
+chardet~=5.2.0
+uvicorn~=0.20.0
+fastapi~=0.112.2
+langchain_openai
+rouge_chinese
+python-multipart
